@@ -13,7 +13,7 @@ describe('Login User with correct email and password', () => {
         // cy.contains('Account Deleted!').should('be.visible');
     });
 });
- 
+  
  
 // 2
 describe('Login User with correct email and password', () => {
